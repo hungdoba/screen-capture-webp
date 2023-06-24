@@ -1,0 +1,1 @@
+python C:\Users\hungba\Documents\Programming\Python\webp\snipping.py
